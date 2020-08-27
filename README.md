@@ -1,2 +1,2 @@
 # zoom-client-oauth
-Zoom client oauth
+Zoom client OAuth
